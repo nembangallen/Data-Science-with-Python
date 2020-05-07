@@ -13,4 +13,4 @@ Data science is an inter-disciplinary field that uses scientific methods, proces
 * [NumPy](https://numpy.org/) Library of high-level mathematical functions to operate on large, multidimensional arrays and matrices.
 * [Pandas](https://pandas.pydata.org/docs/) Pandas is an open source, BSD-licensed library providing high performance, easy-to-use data structures and data analysis tools.
 * [Matplotlib](https://matplotlib.org/) Plotting library for the Python programming language and its numerical mathematics extension NumPy
-
+* [Seaborn](https://seaborn.pydata.org/) Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
